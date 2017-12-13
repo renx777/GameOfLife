@@ -1,0 +1,80 @@
+body{
+  background:#0c136beb
+}
+
+
+br{
+ line-height:20px
+}
+
+#hide{
+ visibility: hidden;
+  margin-top:-27px
+}
+
+#board{
+     border: 10px solid #790000;
+    padding-left: 5px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    background-color: #da1414;
+    min-width: 100px;
+    display: inline-block;
+    padding-right: 5px;
+          box-shadow: 0px -4px 40px 1px rgba(255, 255, 255, 0.98), 0 6px 20px 0 rgb(173, 173, 173);
+  
+}
+
+#bottomBoard{
+  
+}
+
+#topBoard{
+display:block;
+  margin:0 auto;
+ width:600px;
+}
+
+
+#bottomBoard{
+display:block;
+  margin:0 auto;
+    width:600px;
+
+}
+#gen{
+  color:white;
+  font-size:30px
+}
+
+#app{
+  text-align:center;
+}
+
+
+button {
+    background-color:#1D1F20;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+  margin-right:5px;
+    display: inline-block;
+  cursor:pointer;
+    font-size: 16px;
+}
+
+button:hover{
+  background: #da1414;
+  
+  color:white;
+  font-weight:bold;
+    padding:50x
+}
+
+span{
+   color:white;
+  font-size:30px;
+    font-family:roboto;
+}
